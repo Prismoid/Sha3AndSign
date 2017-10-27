@@ -14,6 +14,8 @@ on the truffle console
 > migrate --reset
 ```
 3. calling web3.js RPC
+```
 cd ./js-rpc
-node Sha3AndSign.js 
+node Sha3AndSign.js
+```
 
